@@ -1,0 +1,8 @@
+Handwritten Digit Recognition with TensorFlow
+Overview
+A machine learning project that utilizes a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset, achieving high accuracy through effective model architecture and training techniques.
+
+Features
+Data Preprocessing: Normalized pixel values and reshaped data for model input.
+CNN Architecture: Implemented layers such as Conv2D, MaxPooling2D, Flatten, and Dense to extract features and classify digits.
+Model Training: Compiled and trained the model using the Adam optimizer and sparse categorical crossentropy loss, achieving an accuracy of over [insert your achieved accuracy]% on the test dataset.
